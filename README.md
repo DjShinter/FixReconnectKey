@@ -36,7 +36,7 @@ If this mod breaks terms of service, I will shutdown this project immediately as
 
 I'm not going to provide "**MelonLoader.dll**" & game files related to ChilloutVR, this is on you!
 
-Download the Source Code and put the DLL's in /Libs which are: "**MelonLoader.dll**" & "**Assembly-CSharp.dll**" & "**UnityEngine.InputModule.dll**" & "**UnityEngine.InputLegacyModule.dll**", "**UnityEngine.PhysicsModule.dll**".
+Download the Source Code and put the DLL's in /Libs which are: "**MelonLoader.dll**" & "**Assembly-CSharp.dll**" & "**0Harmony.dll**".
 
 # Is this mod not allowed?
 
