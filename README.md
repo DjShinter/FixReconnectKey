@@ -4,7 +4,7 @@
 Unbinds "-" so you can type -20 or whatever text that involves using the minus key, because it reconnects you in 2022r170.
 
 This is a **MelonLoader** Mod for **ChilloutVR**, 
-The **Nice Hotkeys mod** adds QOL changes to **ChilloutVR** being able to have an easier time to do certain functions while in VR & Desktop.
+The **Fix Reconnect Key mod** fixes a **ChilloutVR** bug by removing the functionality on the minus key since it would reconnect you when you press the button.
 
 **ChilloutVR website**: https://abinteractive.net
 
